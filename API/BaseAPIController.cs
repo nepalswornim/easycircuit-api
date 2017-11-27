@@ -9,7 +9,7 @@ using System.Web.Http;
 
 namespace API.BaseAPI
 {
-    public class BaseAPIController : ApiController
+    internal class BaseAPIController : ApiController
     {
         public ApiResponse HttpResponse(int statusCode, string msg, object data)
         {
