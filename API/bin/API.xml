@@ -481,7 +481,7 @@
             </summary>
             <param name="documentPath">The physical path to XML document.</param>
         </member>
-        <member name="M:API.Controllers.MaalsController.Get">
+        <member name="M:API.Controllers.ItemsController.Get">
             <summary>
             This method returns a list of all available items.
             </summary>

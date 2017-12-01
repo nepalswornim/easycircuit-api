@@ -190,7 +190,8 @@
     <Compile Include="Areas\HelpPage\SampleGeneration\TextSample.cs" />
     <Compile Include="Areas\HelpPage\XmlDocumentationProvider.cs" />
     <Compile Include="Controllers\HomeController.cs" />
-    <Compile Include="Controllers\MaalsController.cs" />
+    <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\ItemsController.cs" />
     <Compile Include="DataAccess\DataProvider.cs" />
     <Compile Include="DataAccess\Info\Ladies.cs" />
     <Compile Include="Global.asax.cs">
